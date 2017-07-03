@@ -58,3 +58,33 @@ C:\Users\Hoang Thach\Downloads\Compressed\Nhom1_ThachHNPH04651_AssignmenGD2\Assi
 C:\Users\Hoang Thach\Downloads\Compressed\Nhom1_ThachHNPH04651_AssignmenGD2\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
 C:\Users\Hoang Thach\Downloads\Compressed\Nhom1_ThachHNPH04651_AssignmenGD2\Assignment\obj\Debug\Assignment.dll
 C:\Users\Hoang Thach\Downloads\Compressed\Nhom1_ThachHNPH04651_AssignmenGD2\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\Assignment.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\Assignment.pdb
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\Antlr3.Runtime.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.Core.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\EntityFramework.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\System.Web.Optimization.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\System.Web.Providers.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\WebGrease.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\EntityFramework.xml
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.Core.xml
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\obj\Debug\Assignment.dll
+C:\Users\Fpoly\Desktop\BaiThi\Assignment\obj\Debug\Assignment.pdb
