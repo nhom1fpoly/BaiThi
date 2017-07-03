@@ -35,7 +35,7 @@
         </Scripts>
     </asp:ScriptManager>
     <header>
-        <div class="content-wrapper">
+        <div style="background-color:white;" class="content-wrapper">
             <div class="float-left">
                 <p class="site-title">
                     <a id="A1" runat="server" href="~/">
@@ -66,14 +66,14 @@
             </div>
         </div>
     </header>
-    <div id="body">
+    <div id="body" style="background-color:white">
         <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
         <section class="content-wrapper main-content clear-fix">
             <asp:ContentPlaceHolder runat="server" ID="MainContent" />
         </section>
     </div>
-    <footer>
-        <div class="content-wrapper">
+    <footer >
+        <div class="content-wrapper" style="background-color:white">
             <div class="float-left">
                 <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
             </div>
