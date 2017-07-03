@@ -25,7 +25,7 @@
             Đơn vị tính:<br />
             <asp:TextBox ID="DonViTinhTextBox" runat="server" Text='<%# Bind("DonViTinh") %>' />
             <br />
-            Trạng thái:<br />
+            Trạng thái :<br />
             <asp:CheckBox ID="TrangThaiCheckBox" runat="server" Checked='<%# Bind("TrangThai") %>' />
             <br />
             Đường dẫn ảnh:<br />
